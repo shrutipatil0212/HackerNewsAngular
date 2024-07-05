@@ -1,0 +1,18 @@
+.top-stories {
+  margin: 10px;
+  width: 100%;
+}
+
+.mr-4 {
+  margin-right: 4px;
+}
+
+.navcontent {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer {
+  justify-content: center;
+}

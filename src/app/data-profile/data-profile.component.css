@@ -1,0 +1,26 @@
+.date {
+  text-align: left;
+  font-weight: 350;
+}
+
+.name {
+  text-align: left;
+  font-weight: 400;
+}
+
+.score {
+  margin-left: 16px;
+}
+
+.data-profile {
+  margin-left: 12px;
+}
+
+.profile-container {
+  margin: 12px 0;
+}
+
+.avatar {
+  display: flex;
+  align-items: center;
+}
